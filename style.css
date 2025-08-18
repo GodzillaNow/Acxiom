@@ -6,7 +6,7 @@
 }
 
 body {
-  font-family: 'Segoe UI', 'Roboto', Arial, sans-serif;
+  font-family: 'Montserrat', 'Poppins', Arial, sans-serif;
   background: linear-gradient(120deg, #f3f6fa 0%, #e9edf7 100%);
   color: #243249;
   font-size: 18px;
@@ -31,7 +31,7 @@ header h1 {
   font-size: 26px;
   font-weight: 600;
   letter-spacing: 1px;
-  font-family: 'Montserrat', 'Arial', sans-serif;
+  font-family: 'Montserrat', 'Poppins', Arial, sans-serif;
 }
 
 nav ul {
